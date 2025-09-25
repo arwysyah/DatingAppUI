@@ -11,6 +11,20 @@
 		F44BA1D12E8455EC0026244E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1D02E8455EC0026244E /* ContentView.swift */; };
 		F44BA1D32E8455EE0026244E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44BA1D22E8455EE0026244E /* Assets.xcassets */; };
 		F44BA1D72E8455EE0026244E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44BA1D62E8455EE0026244E /* Preview Assets.xcassets */; };
+		F44BA1E02E84819B0026244E /* Color+hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1DF2E84819B0026244E /* Color+hex.swift */; };
+		F44BA1E32E8481E70026244E /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1E22E8481E70026244E /* AppColors.swift */; };
+		F44BA1E92E8482540026244E /* TurnCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1E82E8482540026244E /* TurnCards.swift */; };
+		F44BA1EC2E84828F0026244E /* TurnCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1EB2E84828F0026244E /* TurnCardView.swift */; };
+		F44BA1F12E8483140026244E /* ChatRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1F02E8483140026244E /* ChatRowView.swift */; };
+		F44BA1F32E8483810026244E /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1F22E8483810026244E /* Chat.swift */; };
+		F44BA1FB2E8484490026244E /* TabBarViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1FA2E8484490026244E /* TabBarViews.swift */; };
+		F44BA1FE2E84851B0026244E /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA1FD2E84851B0026244E /* CircularProgressView.swift */; };
+		F44BA2032E848E620026244E /* ScoreBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA2022E848E620026244E /* ScoreBadge.swift */; };
+		F44BA2052E848E920026244E /* ProfileProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA2042E848E920026244E /* ProfileProgressView.swift */; };
+		F44BA2072E84B5130026244E /* CustomLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA2062E84B5130026244E /* CustomLabelView.swift */; };
+		F44BA20B2E84D0200026244E /* turncards.json in Resources */ = {isa = PBXBuildFile; fileRef = F44BA2092E84D0200026244E /* turncards.json */; };
+		F44BA20C2E84D0200026244E /* chats.json in Resources */ = {isa = PBXBuildFile; fileRef = F44BA20A2E84D0200026244E /* chats.json */; };
+		F44BA20F2E84D0600026244E /* loadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BA20E2E84D0600026244E /* loadJson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +34,20 @@
 		F44BA1D22E8455EE0026244E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F44BA1D42E8455EE0026244E /* DatingAppUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DatingAppUI.entitlements; sourceTree = "<group>"; };
 		F44BA1D62E8455EE0026244E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F44BA1DF2E84819B0026244E /* Color+hex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+hex.swift"; sourceTree = "<group>"; };
+		F44BA1E22E8481E70026244E /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
+		F44BA1E82E8482540026244E /* TurnCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurnCards.swift; sourceTree = "<group>"; };
+		F44BA1EB2E84828F0026244E /* TurnCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurnCardView.swift; sourceTree = "<group>"; };
+		F44BA1F02E8483140026244E /* ChatRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatRowView.swift; sourceTree = "<group>"; };
+		F44BA1F22E8483810026244E /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		F44BA1FA2E8484490026244E /* TabBarViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViews.swift; sourceTree = "<group>"; };
+		F44BA1FD2E84851B0026244E /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		F44BA2022E848E620026244E /* ScoreBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreBadge.swift; sourceTree = "<group>"; };
+		F44BA2042E848E920026244E /* ProfileProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileProgressView.swift; sourceTree = "<group>"; };
+		F44BA2062E84B5130026244E /* CustomLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabelView.swift; sourceTree = "<group>"; };
+		F44BA2092E84D0200026244E /* turncards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = turncards.json; sourceTree = "<group>"; };
+		F44BA20A2E84D0200026244E /* chats.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chats.json; sourceTree = "<group>"; };
+		F44BA20E2E84D0600026244E /* loadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loadJson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +80,11 @@
 		F44BA1CD2E8455EC0026244E /* DatingAppUI */ = {
 			isa = PBXGroup;
 			children = (
+				F44BA20D2E84D03F0026244E /* Services */,
+				F44BA2082E84CF000026244E /* Resources */,
+				F44BA1FC2E8484F10026244E /* Shared */,
+				F44BA1E42E8482110026244E /* Features */,
+				F44BA1DD2E84815D0026244E /* Core */,
 				F44BA1CE2E8455EC0026244E /* DatingAppUIApp.swift */,
 				F44BA1D02E8455EC0026244E /* ContentView.swift */,
 				F44BA1D22E8455EE0026244E /* Assets.xcassets */,
@@ -67,6 +100,143 @@
 				F44BA1D62E8455EE0026244E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F44BA1DD2E84815D0026244E /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1E12E8481D70026244E /* Theme */,
+				F44BA1DE2E8481750026244E /* Extension */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		F44BA1DE2E8481750026244E /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1DF2E84819B0026244E /* Color+hex.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		F44BA1E12E8481D70026244E /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1E22E8481E70026244E /* AppColors.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		F44BA1E42E8482110026244E /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA2002E8485670026244E /* Profile */,
+				F44BA1F62E8483C40026244E /* TabBar */,
+				F44BA1ED2E8482DF0026244E /* Chat */,
+				F44BA1E52E8482240026244E /* TurnCards */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		F44BA1E52E8482240026244E /* TurnCards */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1EA2E8482690026244E /* Views */,
+				F44BA1E62E8482320026244E /* Models */,
+			);
+			path = TurnCards;
+			sourceTree = "<group>";
+		};
+		F44BA1E62E8482320026244E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1E82E8482540026244E /* TurnCards.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F44BA1EA2E8482690026244E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1EB2E84828F0026244E /* TurnCardView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F44BA1ED2E8482DF0026244E /* Chat */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1EF2E8482F10026244E /* Views */,
+				F44BA1EE2E8482E50026244E /* Models */,
+			);
+			path = Chat;
+			sourceTree = "<group>";
+		};
+		F44BA1EE2E8482E50026244E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1F22E8483810026244E /* Chat.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F44BA1EF2E8482F10026244E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1F02E8483140026244E /* ChatRowView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F44BA1F62E8483C40026244E /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1FA2E8484490026244E /* TabBarViews.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		F44BA1FC2E8484F10026244E /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA1FD2E84851B0026244E /* CircularProgressView.swift */,
+				F44BA2062E84B5130026244E /* CustomLabelView.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		F44BA2002E8485670026244E /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA2012E8485730026244E /* Views */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		F44BA2012E8485730026244E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA2022E848E620026244E /* ScoreBadge.swift */,
+				F44BA2042E848E920026244E /* ProfileProgressView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F44BA2082E84CF000026244E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA20A2E84D0200026244E /* chats.json */,
+				F44BA2092E84D0200026244E /* turncards.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F44BA20D2E84D03F0026244E /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				F44BA20E2E84D0600026244E /* loadJson.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,7 +298,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F44BA1D72E8455EE0026244E /* Preview Assets.xcassets in Resources */,
+				F44BA20C2E84D0200026244E /* chats.json in Resources */,
 				F44BA1D32E8455EE0026244E /* Assets.xcassets in Resources */,
+				F44BA20B2E84D0200026244E /* turncards.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +311,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F44BA1F12E8483140026244E /* ChatRowView.swift in Sources */,
+				F44BA20F2E84D0600026244E /* loadJson.swift in Sources */,
+				F44BA2052E848E920026244E /* ProfileProgressView.swift in Sources */,
+				F44BA2072E84B5130026244E /* CustomLabelView.swift in Sources */,
+				F44BA1E92E8482540026244E /* TurnCards.swift in Sources */,
+				F44BA1EC2E84828F0026244E /* TurnCardView.swift in Sources */,
+				F44BA2032E848E620026244E /* ScoreBadge.swift in Sources */,
+				F44BA1E02E84819B0026244E /* Color+hex.swift in Sources */,
+				F44BA1E32E8481E70026244E /* AppColors.swift in Sources */,
+				F44BA1FB2E8484490026244E /* TabBarViews.swift in Sources */,
+				F44BA1F32E8483810026244E /* Chat.swift in Sources */,
 				F44BA1D12E8455EC0026244E /* ContentView.swift in Sources */,
+				F44BA1FE2E84851B0026244E /* CircularProgressView.swift in Sources */,
 				F44BA1CF2E8455EC0026244E /* DatingAppUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

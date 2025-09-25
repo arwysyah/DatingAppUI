@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Amanda",
+    "age": 22,
+    "question": "What is your most favorite childhood memory?",
+    "image": "amanda",
+    "showBadge": false,
+    "isBlurred": true
+  },
+  {
+    "id": "2",
+    "name": "Malte",
+    "age": 31,
+    "question": "What is the most important quality in friendships to you?",
+    "image": "malte",
+    "showBadge": true,
+    "status": "They Made a move!",
+    "isBlurred": true
+  },
+  {
+    "id": "3",
+    "name": "Emily",
+    "age": 27,
+    "question": "If you could travel anywhere right now, where would you go?",
+    "image": "em",
+    "showBadge": true,
+    "isBlurred": false
+  }
+]

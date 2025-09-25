@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Jessica",
+    "message": "",
+    "time": "6:21 pm",
+    "imageName": "jessica",
+    "isNewChat": true,
+    "isYourMove": false,
+    "hasVoiceNote": true,
+    "unreadCount": 0,
+    "hasRead": false,
+    "isFavorite": true
+  },
+  {
+    "id": "2",
+    "name": "Amanda",
+    "message": "Lol I love house music too",
+    "time": "6:21 pm",
+    "imageName": "amanda",
+    "isNewChat": false,
+    "isYourMove": true,
+    "hasVoiceNote": false,
+    "unreadCount": 0,
+    "hasRead": false,
+    "isFavorite": false
+  },
+  {
+    "id": "3",
+    "name": "Sila",
+    "message": "You: I love the people there tbh, have you been?",
+    "time": "Wed",
+    "imageName": "sila",
+    "isNewChat": false,
+    "isYourMove": false,
+    "hasVoiceNote": false,
+    "unreadCount": 0,
+    "hasRead": true,
+    "isFavorite": false
+  },
+  {
+    "id": "4",
+    "name": "Marie",
+    "message": "Hahaha that’s interesting, it does seem like people here are startin...",
+    "time": "6:21 pm",
+    "imageName": "marie",
+    "isNewChat": false,
+    "isYourMove": true,
+    "hasVoiceNote": false,
+    "unreadCount": 4,
+    "hasRead": false,
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "name": "Jessica",
+    "message": "You: I love to hear your voice",
+    "time": "6:21 pm",
+    "imageName": "jessica",
+    "isNewChat": false,
+    "isYourMove": true,
+    "hasVoiceNote": false,
+    "unreadCount": 0,
+    "hasRead": true,
+    "isFavorite": false
+  }
+]
